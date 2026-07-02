@@ -233,7 +233,7 @@ c5.metric("Avg Delay (all)",    "−10.9 d", delta="padded promise",    delta_co
 c6.metric("Avg Review Score",   "4.16 ★",  delta="on-time: 4.30★")
 
 st.caption(
-    "⚠️ **Key nuance:** −10.9 d means the *median* order arrives **11 days early** — "
+    "⚠️ **Key nuance:** −10.9 d means the *median* order arrives **11 days early** - "
     "evidence of a miscalibrated promise algorithm, not good performance.  \n"
     "Worst state: **AL 23.9% late** · Best state: **RO 2.9% late** · "
     "Avg delay when late: **+9.87 days**"
@@ -271,7 +271,7 @@ with col_a:
     st.caption(
         "**Two distinct problems:**  \n"
         "🔴 **Northeast + RJ** — genuine carrier failures (AL 23.9%, MA 19.7%, RJ 13.5%)  \n"
-        "🟢 **Far North (AM, RO, AC, AP)** — lowest late rates but ~19-day promise padding "
+        "🟢 **Far North (AM, RO, AC, AP)** - lowest late rates but ~19-day promise padding "
         "that hurts conversion — a calibration problem, not a delivery failure"
     )
 
@@ -477,7 +477,7 @@ st.divider()
 # ════════════════════════════════════════════════════════════════════════════════
 # SECTION 5 — MONTHLY HEATMAP
 # ════════════════════════════════════════════════════════════════════════════════
-st.markdown("### Monthly Late Rate Heatmap — Chronic vs. Seasonal")
+st.markdown("### Monthly Late Rate Heatmap - Chronic vs. Seasonal")
 st.caption(
     "A state that is red **every month** needs structural intervention.  \n"
     "A state that spiked **only in Nov 2017** had a Black Friday capacity problem — a cheaper fix."
