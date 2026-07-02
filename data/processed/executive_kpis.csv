@@ -1,0 +1,14 @@
+KPI,Value
+Total Orders,"99,441"
+Delivered Orders,"96,470"
+Canceled/Unavailable Orders,"1,234"
+Late Orders %,8.11%
+Super Late %,4.37%
+"Average Delay (days, all delivered)",-10.88
+"Median Delay (days, all delivered)",-11.0
+Average Delay when Late (days),9.87
+Average Review Score,4.16
+Worst State (late %),AL (23.9%)
+Best State (late %),RO (2.9%)
+Worst Product Category (late %),audio (12.7%)
+Best Product Category (late %),books_imported (3.5%)
