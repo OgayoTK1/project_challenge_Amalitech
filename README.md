@@ -242,4 +242,4 @@ The dashboard runs fully on hardcoded aggregates — no CSVs required for the co
 
 ---
 
-*All numbers in this README are computed directly from the pipeline output — nothing is manually entered.*
+
