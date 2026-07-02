@@ -20,7 +20,7 @@ The sentiment link is a **cliff, not a slope**: on-time orders average **4.30 â˜
 
 | Deliverable | Link |
 |---|---|
-| **Notebook** (Google Colab) | `[]` |
+| **Notebook** (Google Colab) | `https://colab.research.google.com/drive/1ZZCauuifJcVYJX0NNgyQIggKzCsN4Tgq?usp=sharing` |
 | **Live Dashboard** (Streamlit) | `https://ogayotk1-project-challenge-amalitech-app-suwpkg.streamlit.app/` |
 | **Presentation** (PDF/Slides) | `[]` |
 | **Video Walkthrough** (optional) | `[]` |
