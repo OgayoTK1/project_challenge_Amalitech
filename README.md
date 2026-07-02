@@ -1,5 +1,5 @@
 # Last Mile Logistics Auditor
-### Delivery Performance Audit — Veridi Logistics
+### Delivery Performance Audit - Veridi Logistics
 
 > **Built by Andrew Ater Ogayo · July 2026**  
 > *A production-quality delivery audit pipeline connecting logistics data to customer sentiment across 99,441 real e-commerce orders.*
@@ -43,7 +43,7 @@ Six raw Olist CSVs (443,778 total rows across tables) were loaded and profiled b
 
 **Two-grain architecture:** Products cannot join directly to orders (the link runs through `order_items` and is 1-to-many). An order-grain master table handles all delivery and sentiment KPIs; a separate item-grain table handles category analysis. Mixing the two grains would duplicate orders and corrupt every aggregate.
 
-### Choice — Delivery Risk Score
+### Choice - Delivery Risk Score
 
 The **Delivery Risk Score** is a composite metric that ranks every state into a single, actionable priority list:
 
