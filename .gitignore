@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+env/
+
+# Raw dataset files can be very large and should not be committed.
+data/raw/*
+!data/raw/.gitkeep
+
+# Keep processed exports available unless you decide otherwise.
