@@ -518,12 +518,12 @@ st.markdown("###  Executive Summary")
 
 st.info(
     "**Of 96,470 delivered orders, 8.1% arrived after the promised date** "
-    "(4.4% more than 5 days late), while **90.4% arrive early — a median of 11 days early** — "
+    "(4.4% more than 5 days late), while **90.4% arrive early - a median of 11 days early** - "
     "evidence that the delivery-promise algorithm is miscalibrated in both directions.  \n\n"
     "Late deliveries are **regionally concentrated, not nationwide** "
     "(z-test: z = 22.1, p ≈ 0): the Northeast corridor **(AL 23.9%, MA 19.7%)** and "
     "**Rio de Janeiro (13.5% on 12,350 orders)** drive the failures. "
-    "Far-North states show the *lowest* late rates — but promises there are padded ~19 days, "
+    "Far-North states show the *lowest* late rates - but promises there are padded ~19 days, "
     "a calibration problem that hurts conversion.  \n\n"
     "The sentiment impact is a **cliff**: on-time orders average **4.30 ★** while super-late "
     "orders average **1.78 ★** (Pearson r = −0.267, Spearman ρ = −0.176, p ≈ 0).  \n"
