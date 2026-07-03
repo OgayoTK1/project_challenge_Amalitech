@@ -23,8 +23,8 @@ The sentiment link is a **cliff, not a slope**: on-time orders average **4.30 â˜
 | **Notebook** (Google Colab) | `https://colab.research.google.com/drive/1ZZCauuifJcVYJX0NNgyQIggKzCsN4Tgq?usp=sharing` |
 | **Live Dashboard** (Streamlit) | `https://ogayotk1-project-challenge-amalitech-app-suwpkg.streamlit.app/` |
 | **Notebook** (jupyter html link) | 'https://nbviewer.org/github/OgayoTK1/project_challenge_Amalitech/blob/main/notebooks/last_mile_logistics_auditor%20%283%29.html' |
-| **Presentation** (PDF/Slides) | ` https://canva.link/7nu78tae1flsesg ` |
-| **Video Walkthrough** (optional) | ` https://youtu.be/jGs90MzpmXE ` |
+| **Presentation** (PDF/Slides) | `https://canva.link/7nu78tae1flsesg` |
+| **Video Walkthrough** (optional) | `https://youtu.be/jGs90MzpmXE` |
 
 ---
 
